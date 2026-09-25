@@ -1,6 +1,6 @@
 source :rubygems
 
-gem "sinatra", "~> 1.3"
+gem "sinatra", "~> 4.2"
 gem "zurb-foundation", "3.0.9"
 gem "thin"
 
